@@ -1,4 +1,4 @@
-# Peek-A-Boo-Game 🎮
+# Peek-a-Boo Game 🎮
 Welcome to the Peek-a-Boo Game! <br><br>
 Peek-a-Boo is a classic hide-and-seek game where players must match the selected number's positions on the grid in the minimum number of attempts. Once the game is completed, players receive a final score based on their performance.
 
@@ -15,8 +15,8 @@ To run the game, you'll need minimum Python 3.10.
 ## 📦 Installation
 1. Clone the repository and open the folder:
 ```bash
-git clone https://github.com/Shefali-Upadhyaya/Peek-A-Boo-Game.git
-cd Peek-A-Boo-Game
+git clone https://github.com/Shefali-Upadhyaya/peek-a-boo-game.git
+cd peek-a-boo-game
 ```
 2. Run the game:
 ```bash
