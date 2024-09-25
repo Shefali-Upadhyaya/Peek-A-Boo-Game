@@ -23,7 +23,7 @@ cd peek-a-boo-game
 python game.py
 ```
 
-## 🎶 How to Play
+## 🎮 How to Play
 1. Start the game and follow the on-screen instructions.
 2. Guess the selected number's position on the grid by yourself or based on the hints provided.
 3. The fewer the number of attempts to guess the positions of the number correctly, the higher your score!
